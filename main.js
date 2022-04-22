@@ -1,5 +1,5 @@
-var n = Math.floor(Math.random()*3);
-var names = ["Traffic lights","Bikes","Planes"];
+var n = Math.floor(Math.random()*1);
+var names = ["lights"];
 document.getElementById('obj').textContent = ""+names[n];
 document.getElementById('run').addEventListener('click', function()
 {

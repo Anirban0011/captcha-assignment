@@ -17,7 +17,7 @@ for(var i=0;i<imgs.length;i++)
 var arr = [];
 function myFun()
 {
-    this.setAttribute('src','https://thumbs.dreamstime.com/b/tick-mark-icon-flat-illustration-check-mark-vector-tick-mark-icon-flat-illustration-check-mark-vector-164317151.jpg');
+    this.setAttribute('src','https://t4.ftcdn.net/jpg/02/82/47/15/360_F_282471590_t5qkff4R08fuLwL23snKhyIbc8bsXVOH.jpg');
     arr.push(this.className);
 }
 document.getElementsByClassName('drun')[0].addEventListener('click',function()
